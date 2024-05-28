@@ -10,11 +10,6 @@ This is a simple Node web application that displays a list.
     pip install -r requirements.txt
     ```
 
-2. Run the application:
-    ```sh
-    python app.py
-    ```
-
 ## Install necessary packages
 RUN npm install
 
